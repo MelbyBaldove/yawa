@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/mayajs/maya/blob/master/maya.svg"></p>
 
-A nODE.Js frAmEwORk fOr REst ApI sErVEr-sIdE-apPlIcaTiOnS. ThIs Is BuIlT oN tOP oF maYAJs uSIng tYpEsCrIPt TO taKe aDVAntaGE of StRoNgLy TyPE chECkiNg ANd MoDErn JavAsCRIpt fEaTUrEs. tYpEscRiPt ALso PrOvIDeS eAsY imPLeMEnTatIoN dEpeNDenCY inJEcTiOn aNd INveRSIoN of ConTROl (iOC) thAt MakEs UNit TEstInG MucH EAsIEr.
+A nODE.Js frAmEwORk fOr REst ApI sErVEr-sIdE-apPlIcaTiOnS. ThIs Is BuIlT oN tOP oF maYAJs uSIng tYpEsCrIPt TO taKe aDVAntaGE of StRoNgLy TyPE chECkiNg ANd MoDErn JavAsCRIpt fEaTUrEs. tYpEscRiPt ALso PrOvIDeS aN eAsY imPLeMEnTatIoN Of dEpeNDenCY inJEcTiOn aNd INveRSIoN of ConTROl (iOC) thAt MakEs UNit TEstInG MucH EAsIEr.
 
 ## FeTuRES
 
@@ -34,6 +34,6 @@ A nODE.Js frAmEwORk fOr REst ApI sErVEr-sIdE-apPlIcaTiOnS. ThIs Is BuIlT oN tOP 
 
 > COmIng SoOn!!!
 
-## BeCoME a sUpPOtEr
+## BeCoME a sUpPOrtEr
 
 > COmIng SoOn!!!
