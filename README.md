@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/mayajs/maya/blob/master/maya.svg"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/6942408/67062617-65fd5380-f196-11e9-891c-843b7dfdcd59.png"></p>
 
 A nODE.Js frAmEwORk fOr REst ApI sErVEr-sIdE-apPlIcaTiOnS. ThIs Is BuIlT oN tOP oF maYAJs uSIng tYpEsCrIPt TO taKe aDVAntaGE of StRoNgLy TyPE chECkiNg ANd MoDErn JavAsCRIpt fEaTUrEs. tYpEscRiPt ALso PrOvIDeS eAsY imPLeMEnTatIoN dEpeNDenCY inJEcTiOn aNd INveRSIoN of ConTROl (iOC) thAt MakEs UNit TEstInG MucH EAsIEr.
 
